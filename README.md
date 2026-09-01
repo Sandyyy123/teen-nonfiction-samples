@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # Teen Nonfiction Writing Samples
 
 Structured nonfiction writing samples for teens ages 13-18. Each project follows a strict template system — consistent module format, conversational tone, real-world scenarios, and step-by-step explanations written for how teens actually think and talk.
